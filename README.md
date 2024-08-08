@@ -27,8 +27,8 @@ To get started with the Bouncing Ball EMDR Therapy Tool, follow these instructio
 
 1. **Clone the Repository:**
 
-    ```bash
-    git clone <repository-url>
+    ```
+    git clone https://github.com/ElifKeskinn/EMDR-therapy-tool.git
     cd bouncing-ball-emdr-therapy-tool
     ```
 
