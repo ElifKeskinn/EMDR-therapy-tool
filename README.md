@@ -1,5 +1,7 @@
 # Bouncing Ball EMDR Therapy Tool
 
+https://brilliant-macaron-785655.netlify.app/
+
 ## Overview
 
 The Bouncing Ball EMDR Therapy Tool is a WebGL-based application designed to simulate a bouncing ball for Eye Movement Desensitization and Reprocessing (EMDR) therapy. This tool helps users focus and engage through visual and auditory stimuli by providing a continuous and interactive bouncing ball experience.
@@ -23,22 +25,6 @@ To get started with the Bouncing Ball EMDR Therapy Tool, follow these instructio
 - A modern web browser that supports WebGL.
 - Ensure you have a sound file named `bounce.mp3` in the same directory as your `ball.js` file.
 
-### Installation
-
-1. **Clone the Repository:**
-
-    ```
-    git clone https://github.com/ElifKeskinn/EMDR-therapy-tool.git
-    cd bouncing-ball-emdr-therapy-tool
-    ```
-
-2. **Open the Project:**
-
-    Open the `index.html` file in your preferred text editor or IDE.
-
-3. **Run the Tool:**
-
-    Simply open the `index.html` file in a web browser to view and interact with the tool.
 
 ### Usage
 
@@ -60,15 +46,7 @@ To get started with the Bouncing Ball EMDR Therapy Tool, follow these instructio
 - `styles.css`: CSS file for styling the UI panel and other elements.
 - `ball.js`: JavaScript file containing the WebGL setup and animation logic.
 
-### Deployment
 
-To deploy the tool, you can use one of the following hosting services:
-
-- **Netlify:** [Netlify Deployment Documentation](https://docs.netlify.com/)
-
-### License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ### Acknowledgements
 
