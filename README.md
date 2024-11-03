@@ -12,7 +12,7 @@ A WebGL-based EMDR tool simulating a bouncing ball for therapy using Three.js.
 - **WebGL Setup**
   - Used Three.js or other suitable library.
   - Deploy on hosting server Netlify
-  -[Deployment Link]([http://localhost:5175](https://brilliant-macaron-785655.netlify.app/))
+  -[[Deployment Link](https://brilliant-macaron-785655.netlify.app/)](https://brilliant-macaron-785655.netlify.app/))
 ## Controls
 
 - **Adjust Ball Speed**
